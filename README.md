@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>👾 Hi, I’m A. Coetzer,</h3>
+    <h3>👾 I’m A. Coetzer,</h3>
     <h4>
         <em>I break into systems so others can sleep better at night.</em>  
     </h4>
