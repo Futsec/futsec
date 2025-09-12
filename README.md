@@ -1,4 +1,3 @@
 <div align="center">
-    <h3>I’m A. Coetzer,</h3>
-    <p>I am a Cyber Sec Student</p>
+    <img src="./assets/imgs/readme/github_banner.png>
 </div>
