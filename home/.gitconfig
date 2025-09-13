@@ -1,0 +1,11 @@
+[user]
+	name = Futsec
+	email = 229901212+Futsec@users.noreply.github.com
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+[color]
+	ui = auto
+[commit]
+	template = /home/futsec/.gittemplate.txt

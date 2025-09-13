@@ -1,0 +1,57 @@
+<>():
+ 
+# --------------------
+# Commit Message Template
+# --------------------
+#
+# Format:
+# <type>(<scope>): <short summary>
+#
+# Examples:
+# feat(auth): add login with Google
+# fix(ui): correct alignment of submit button
+# docs(readme): update installation steps
+# refactor(api): simplify user controller logic
+# test(db): add integration test for migrations
+# build(deps): bump express from 4.17.1 to 4.18.0
+#
+# --------------------
+# Type options (choose one):
+# - feat     : new feature
+# - fix      : bug fix
+# - docs     : documentation changes
+# - style    : formatting (no code logic changes)
+# - refactor : code restructure, not fixing or adding
+# - perf     : performance improvements
+# - test     : tests only
+# - build    : build system or dependencies
+# - ci       : CI/CD config
+# - chore    : maintenance tasks
+# - revert   : undo previous commit
+#
+# Scope examples:
+# - auth, api, ui, db, deps, docs, config, payment, notifications
+#
+# --------------------
+# Short summary (<= 50 chars)
+#
+# --------------------
+# Body (optional, wrap at 72 chars per line)
+# - Explain what and why, not how.
+# - Include context, reasoning, or details.
+# - Use bullet points if helpful.
+#
+# Example:
+# - Added validation for user emails
+# - Fixed edge case with empty password field
+# - Ensures compatibility with OAuth2 providers
+#
+# --------------------
+# Footer (optional)
+# - Reference issues, tasks, or breaking changes
+#
+# Example:
+# BREAKING CHANGE: removes old auth flow
+# Closes #123, #456
+#
+
