@@ -60,7 +60,7 @@ Configure gsettings to not auto-maximize & to center your windows, allowing you 
 
 
 ### Installing Vim Plug
-Install your plugin manager for vim, and make to grab the colors dir from futsec and place that in `.vim/`.
+Install your plugin manager for vim, and make sure to grab the colors directory from futsec and place that in `.vim/`.
 ```sh
     curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
